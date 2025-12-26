@@ -28,8 +28,18 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 
 ## 🧪 Program
 Add Code Here
+```n=int(input())
+for i in range(0,n):
+    for j in range(i,n):
+        print(n,"",end="")
+    print()
+
+```
 
 ## Sample Output
 
+<img width="638" height="595" alt="image" src="https://github.com/user-attachments/assets/56e8218b-c8a5-48a7-a4ff-09fc53796c14" />
+
 ## Result
 
+<img width="638" height="595" alt="image" src="https://github.com/user-attachments/assets/8042d4ac-dbbd-4ad9-ac8b-d98041c2e70b" />
